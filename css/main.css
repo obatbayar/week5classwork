@@ -1,0 +1,23 @@
+.jumbotron {
+	text-align: center;
+}
+.navbar-default {
+	margin: 0;
+	background-image: none;
+	background-color: pink;
+}
+img {
+	width: 300px;
+	height: 300px;
+}
+button {
+	background-color: yellow;
+	border-color: purple;
+	border-radius: 5px;
+}
+.btn-default {
+	background-color: black;
+	background-image: none;
+	text-shadow: none;
+	color: white;
+}
